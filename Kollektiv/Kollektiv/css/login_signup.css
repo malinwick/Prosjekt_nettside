@@ -1,0 +1,48 @@
+.header-login {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+#btn {
+    background-color: white;
+
+}
+
+#btn:hover {
+    background-color: #f0e6ff;
+    color: #9f9fdf;
+}
+
+.section-default {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.btn-signup {
+    border: 1px solid;
+    padding: 9px 10px;
+    color: #9f9fdf;
+    text-decoration: none;
+    transition: 0.9s ease;
+}
+
+.btn-signup:hover {
+    background-color: #f0e6ff;
+    color: #9f9fdf;
+}
+
+.signuperror {
+    font-size: 15px;
+    color: #9f9fdf;
+    padding: 2px;
+}
+
+.signupsuccess {
+    font-size: 15px;
+    color: #9f9fdf;
+    padding: 2px;
+}

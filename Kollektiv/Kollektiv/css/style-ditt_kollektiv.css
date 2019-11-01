@@ -1,0 +1,146 @@
+.ditt_kollektiv-class {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+.menu {
+    padding: 15px;
+    color: #9f9fdf;
+    text-decoration: none;
+    transition: 0.9s ease;
+    margin: 0px;
+    font-size: 20px;
+}
+
+.menu a:hover {
+    background-color: #f0e6ff;
+    color: #9f9fdf;
+}
+
+.title-ditt_kollektiv {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.title-ditt_kollektiv h2 {
+    color: #9f9fdf;
+    font-size: 70px;
+}
+
+.login-status {
+    position: absolute;
+    top: 80%;
+    left: 45%;
+    transform: translate(-50%,-50%);
+    color: #9f9fdf;
+    font-size: 18px;
+}
+
+.forlat {
+    list-style-type: none;
+    margin-top: 65px;
+    margin-right: 14px;
+    display: inline-block;
+    text-decoration: none;
+    padding: 6px 15px;
+}
+
+.forlat_kollektiv {
+    background-color: white;
+    border: 1px solid;
+    color: #9f9fdf;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
+    cursor: pointer;
+    position: absolute;
+    top: 80%;
+    left: 58%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+.ikke-medlem {
+    position: absolute;
+    top: 73%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: #9f9fdf;
+    font-size: 18px;
+}
+
+
+.ikke-pålogget {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: #9f9fdf;
+    font-size: 18px;
+}
+
+
+.kollektivnavn_input  {
+    position: absolute;
+    list-style-type: none;
+    margin: 10px;
+    left: 30%;
+    display: inline-block;
+    text-decoration: none;
+    padding: 6px 15px;
+    background-color: white;
+    border: 1px solid;
+    color: #9f9fdf;
+}
+
+.btn-legg_til {
+    position: absolute;
+    margin: 10px;
+    left: 52%;
+    border: 1px solid;
+    padding: 6px 15px;
+    color:#9f9fdf;
+    text-decoration: none;
+    transition: 0.9s ease;
+    
+}
+
+.btn-legg_til:hover {
+    background-color: #f0e6ff;
+    color: #9f9fdf;
+}
+
+#btn {
+    background-color:white;
+}
+
+#btn:hover {
+    background-color: #f0e6ff;
+    color: #9f9fdf;
+}
+
+.section {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.divliste {
+    list-style-type: square;
+    position: center;
+    margin: 200px;
+    padding: 50px ;
+    color:#000002;
+    text-decoration: none;
+    transition: 0.9s ease;
+}
+
+@media only screen and (min-width:480px){}

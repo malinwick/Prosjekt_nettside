@@ -1,0 +1,46 @@
+.title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.title h1 {
+    color:#9f9fdf;
+    font-size: 70px;
+}
+
+.title-menu {
+    position: absolute;
+    top: 38%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.title-menu h1 {
+    color:#9f9fdf;
+    font-size: 70px;
+}
+
+.button {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.btn {
+    border: 1px solid;
+    padding: 11px 33px;
+    color: #9f9fdf;
+    text-decoration: none;
+    transition: 0.9s ease;
+}
+
+.btn:hover {
+    background-color: #f0e6ff;
+    color: #9f9fdf;
+}
+
+
+

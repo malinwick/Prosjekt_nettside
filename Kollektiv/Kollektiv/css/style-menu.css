@@ -1,0 +1,183 @@
+.menu-input {
+    position: absolute;
+    top: 55%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+    color: #9f9fdf;
+    font-size: 15px;
+    text-align: center;
+}
+
+.menu-input2 {
+    position: absolute;
+    top: 55%;
+    left: 52%;
+    transform: translate(-50%,-50%);
+    color: #9f9fdf;
+    font-size: 15px;
+    text-align: center;
+}
+
+.menu-input3 {
+    position: absolute;
+    top: 60%;
+    left: 52%;
+    transform: translate(-50%,-50%);
+    color: #9f9fdf;
+    font-size: 15px;
+    text-align: center;
+}
+
+.menu-input4 {
+    position: absolute;
+    top: 55%;
+    left: 45%;
+    transform: translate(-50%,-50%);
+    color: #9f9fdf;
+    font-size: 15px;
+    text-align: center;
+}
+
+.menu-leggtil {
+    background-color: white;
+    border: 1px solid;
+    color: #9f9fdf;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
+    cursor: pointer;
+    position: absolute;
+    top: 55%;
+    left: 62%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+.menu-leggtil2 {
+    background-color: white;
+    border: 1px solid;
+    color: l#9f9fdf;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
+    cursor: pointer;
+    position: absolute;
+    top: 55%;
+    left: 55%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+
+.menu-fjern {
+    background-color: white;
+    border: 1px solid;
+    color: #9f9fdf;
+    padding: 9px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
+    cursor: pointer;
+    position: absolute;
+    top: 60%;
+    left: 62%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+.p-class {
+    color: #9f9fdf;
+    text-align: center;
+    position: absolute;
+    top: 46%;
+    left: 27%;
+}
+
+.menu-input5 {
+    position: absolute;
+    top: 55%;
+    left: 32%;
+    transform: translate(-50%,-50%);
+    color: #9f9fdf;
+    font-size: 15px;
+    text-align: center;
+}
+.menu-input6 {
+    position: absolute;
+    top: 55%;
+    left: 43%;
+    transform: translate(-50%,-50%);
+    color: #9f9fdf;
+    font-size: 15px;
+    text-align: center;
+}
+
+.menu-input7 {
+    position: absolute;
+    top: 55%;
+    left: 54%;
+    transform: translate(-50%,-50%);
+    color: #9f9fdf;
+    font-size: 15px;
+    text-align: center;
+}
+
+.menu-input8 {
+    position: absolute;
+    top: 60%;
+    left: 43%;
+    transform: translate(-50%,-50%);
+    color: #9f9fdf;
+    font-size: 15px;
+    text-align: center;
+}
+
+.menu-input9 {
+    position: absolute;
+    top: 60%;
+    left: 54%;
+    transform: translate(-50%,-50%);
+    color: #9f9fdf;
+    font-size: 15px;
+    text-align: center;
+}
+
+.menu-leggtil3 {
+    background-color: white;
+    border: 1px solid;
+    color: #9f9fdf;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
+    cursor: pointer;
+    position: absolute;
+    top: 55%;
+    left: 65%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+
+.menu-fjern2 {
+    background-color: white;
+    border: 1px solid;
+    color: #9f9fdf;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
+    cursor: pointer;
+    position: absolute;
+    top: 60%;
+    left: 64%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
